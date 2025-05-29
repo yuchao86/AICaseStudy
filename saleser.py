@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='sk-proj-****')
 completion = client.chat.completions.create(
     model="gpt-4o",
     store=True,
