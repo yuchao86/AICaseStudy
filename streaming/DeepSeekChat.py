@@ -64,7 +64,7 @@ class DeepSeekChat:
 
 if __name__ == "__main__":
     # 初始化时填入你的API Key
-    api_key = "sk-c303adc049024f8ea544b03d4a5f81a9"
+    api_key = "sk-***"
     chat = DeepSeekChat(api_key)
 
     print("开始对话（输入 'exit' 退出）")

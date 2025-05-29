@@ -2,7 +2,7 @@ from openai import OpenAI
 
 client = OpenAI(
     base_url="https://api.deepseek.com/",
-    api_key="sk-c303adc049024f8ea544b03d4a5f81a9"
+    api_key="sk-**"
 )
 
 completion = client.chat.completions.create(

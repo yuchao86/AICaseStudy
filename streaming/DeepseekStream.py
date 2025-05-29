@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime
 
-DEEPSEEK_API_KEY = "sk-c303adc049024f8ea544b03d4a5f81a9"
+DEEPSEEK_API_KEY = "sk-*****"
 API_ENDPOINT = "https://api.deepseek.com/v1/chat/completions"
 
 conversation_history = []
